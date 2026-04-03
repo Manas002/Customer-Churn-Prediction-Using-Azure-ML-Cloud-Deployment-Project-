@@ -10,4 +10,6 @@ Registered and deployed the trained model using Azure Machine Learning Studio, c
 
 Enabled real-time prediction via REST API and monitored model performance in a cloud-based environment.
 
+<img width="3948" height="2939" alt="ROC–AUC vs Test Size (Model Robustness Analysis)" src="https://github.com/user-attachments/assets/3449ef02-d3a3-4065-a132-cb5592de2683" />
+
 **Achieved 84% Accuracy and 0.88 ROC-AUC on test data.**
